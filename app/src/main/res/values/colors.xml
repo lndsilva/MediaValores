@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="corFundo">#f7f7f7</color>
+    <color name="corBFace">#3a4390</color>
+    <color name="corBTwitter">#47d0fe</color>
+    <color name="corBEntrar">#fe3435</color>
+    <color name="corFonteB">#ffffff</color>
+
+</resources>
